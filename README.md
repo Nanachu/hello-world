@@ -1,4 +1,4 @@
-# hellow-world
+# hello-world
 My first repository, to finish "the assignment" and maybe store ideas in the future
 
 Hi, there. It is still all very confusing to me. Yes, this, everything. 
